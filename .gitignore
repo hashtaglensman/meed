@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+../data/cifar-10-python.tar.gz
+data/cifar-10-python.tar.gz
+data/cifar-10-python.tar.gz
+>>>>>>> 3d8e293 (First commit)

@@ -1,0 +1,15 @@
+artifact_uri: file:///users/aupendrannair/MEED/mlruns/tinynet/287243705475118453/6291b585ef6e4a03834ea03b679e9e5d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '287243705475118453'
+lifecycle_stage: active
+run_id: 6291b585ef6e4a03834ea03b679e9e5d
+run_name: capable-auk-759
+run_uuid: 6291b585ef6e4a03834ea03b679e9e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237626358
+status: 1
+tags: []
+user_id: aupendrannair

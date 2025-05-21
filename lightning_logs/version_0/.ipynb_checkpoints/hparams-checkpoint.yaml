@@ -1,0 +1,6 @@
+batch_size: 128
+data_dir: data
+freeze_backbone: true
+lr: 0.0003
+num_classes: 10
+num_workers: 4
