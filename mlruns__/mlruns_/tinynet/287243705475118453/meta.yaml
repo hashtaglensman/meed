@@ -1,0 +1,6 @@
+artifact_location: file:///users/aupendrannair/MEED/mlruns/tinynet/287243705475118453
+creation_time: 1747236673036
+experiment_id: '287243705475118453'
+last_update_time: 1747236673036
+lifecycle_stage: active
+name: cifar10_TINYNET

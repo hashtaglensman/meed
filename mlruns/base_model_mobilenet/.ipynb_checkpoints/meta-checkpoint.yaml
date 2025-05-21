@@ -1,6 +1,0 @@
-artifact_location: file:///users/aupendrannair/MEED/mlruns/737497459240027344
-creation_time: 1747159570234
-experiment_id: '737497459240027344'
-last_update_time: 1747159570234
-lifecycle_stage: active
-name: cifar10_mobilenet_v3
